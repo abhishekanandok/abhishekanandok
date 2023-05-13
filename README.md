@@ -1,3 +1,5 @@
+<img src="https://photos.app.goo.gl/Hs3jaP8FyVEQ6XKY8](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif"
+    width="100%" height="300" alt="banner">
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
 
@@ -6,6 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekanandok" alt="abhishekanandok" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishekanandok" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekanandok?logo=twitter&style=for-the-badge" alt="abhishekanandok" /></a> </p>
+
+<img align="right" alt="coding" width="380"
+    src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 - 🌱 I’m currently learning **SqlLite**
 
