@@ -1,5 +1,6 @@
-<img src="https://photos.app.goo.gl/Hs3jaP8FyVEQ6XKY8](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif"
+<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif"
     width="100%" height="300" alt="banner">
+    
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
 
