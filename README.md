@@ -2,7 +2,7 @@
     width="100%" height="300" alt="banner">
     
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
-<h3 align="center">A passionate frontend Web developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekanandok&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekanandok" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SqlLite**
 
-- 💬 Ask me about **HTML, C, CSS, Javascript**
+- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Node, MongoDB, React**
 
 - 📫 How to reach me **abhishekanandok@gmail.com**
 
