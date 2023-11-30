@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhishekanandok@gmail.com**
 
-- ⚡ Fun fact **Search on google "abhishekanandok"**
+- ⚡ Fun fact **Search on google "abhishekanandok" And Click on 👉(Search instead for "abhishekanandok")**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
