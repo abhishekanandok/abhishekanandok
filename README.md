@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="380"
     src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
-- 🌱 I’m currently learning **SqlLite**
+- 🌱 I’m currently exploring **Node modules**
 
 - 💬 Ask me about **C, C++, HTML, CSS, Javascript, Node, MongoDB, React**
 
