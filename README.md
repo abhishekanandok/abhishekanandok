@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently exploring **Node modules**
 
-- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Node, MongoDB, React**
+- 💬 Ask me about **C++, TypeScript, React(nextjs) & React Native(expo), Nodejs, MongoDB**
 
 - 📫 How to reach me **abhishekanandok@gmail.com**
 
