@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++, TypeScript, React(nextjs) & React Native(expo), Nodejs, MongoDB**
 
-- 📫 How to reach me **abhishekanandok@gmail.com**
+- 📫 How to reach me **https://www.abhishekanandok.com**
 
 - ⚡ Fun fact **Search on google "abhishekanandok" And Click on 👉(Search instead for "abhishekanandok")**
 
