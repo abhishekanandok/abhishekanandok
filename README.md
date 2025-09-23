@@ -28,7 +28,7 @@ Over the years, I’ve honed my skills in:
 📍 **Bihar, India**  
 📧 **support@abhishekanandok.com**  
 💼 **Available for Freelance**  
-📄 [**Download Resume**](#) | 🌐 [**Portfolio**](https://www.abhishekanandok.com)  
+📄 [**Download Resume**](https://www.abhishekanandok.com/files/AbhishekAnandSDEResume.pdf) | 🌐 [**Portfolio**](https://www.abhishekanandok.com)  
 
 ---
 
