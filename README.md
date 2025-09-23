@@ -1,21 +1,47 @@
-<h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
-<h3 align="center">🚀 Full Stack Web & App Developer | MERN | React Native | Open Source Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Abhishek Anand</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekanandok&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/abhishekanandok?label=Followers&style=for-the-badge" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/abhishekanandok?label=Stars&style=for-the-badge" alt="GitHub stars" />
+  <em>“Trust me, I'm a software engineer.”</em><br/>
+  Still trying to make <b>'Hello World'</b> the new <b>'abc'</b> — now with a touch of AI magic ✨
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekanandok&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abhishekanandok?label=Followers&style=for-the-badge" alt="GitHub Followers" />
 </p>
 
 ---
 
 <img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
-### 💡 About Me  
-- 🌱 Currently exploring **Node Modules & Advanced Backend**  
-- 💬 Ask me about **C++, TypeScript, React (Next.js), React Native (Expo), Node.js, MongoDB**  
-- 📫 Reach me at: **[abhishekanandok.com](https://www.abhishekanandok.com)**  
-- ⚡ Fun Fact: **Search "abhishekanandok" on Google → then click "Search instead for abhishekanandok" 😆**  
+### 👨‍💻 About Me  
+I'm a passionate **Software Engineer** with strong foundations in design, system integration, and intuitive problem-solving.  
+Over the years, I’ve honed my skills in:  
+
+- **Languages:** C, C++, Python, JavaScript, SQL  
+- **Backend:** Node.js, Express.js, MongoDB, MySQL  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure  
+- **Other Skills:** RESTful APIs, CI/CD pipelines, Git, Agile Development  
+
+📍 **Bihar, India**  
+📧 **support@abhishekanandok.com**  
+💼 **Available for Freelance**  
+📄 [**Download Resume**](#) | 🌐 [**Portfolio**](https://www.abhishekanandok.com)  
+
+---
+
+### 🚀 What’s New? (AI & LLMs Journey)
+Lately, I’ve been exploring **Generative AI** and **LLMs** to build intelligent, adaptive applications:  
+
+- 🤖 **AI Agents & Workflows** → LangChain + LangGraph, checkpointing, memory-aware agents, human-in-loop systems  
+- 📚 **RAG & Multi-Modal AI** → Qdrant, PGVector, Pinecone, text+image apps  
+- 🌐 **Graph-based AI** → Neo4j, Cypher query-based retrieval  
+- 🔐 **Security in AI** → Guardrails, PII detection, self-hosted **Llama-3** for privacy-first AI  
+- 🛠️ **Tool Binding** → API-calling AI agents & integrations  
+- ☁️ **Cloud Deployment** → AWS, scalable AI-native applications  
+
+My goal: **Bridge traditional software engineering with AI-native solutions** → apps that **think, adapt, and evolve**.  
 
 ---
 
@@ -31,9 +57,9 @@
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,linux,html,css,vscode" />
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,react,express,nodejs,mongodb,mysql,docker,kubernetes,aws,azure,linux,git,html,css,tailwind,vscode" />
 </p>
 
 ---
@@ -45,12 +71,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekanandok&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.vercel.app/?user=abhishekanandok&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 🚀 Activity Graph  
+### 📈 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekanandok&theme=tokyo-night&hide_border=true" />
 </p>
@@ -59,5 +85,12 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekanandok&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekanandok&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
+
+---
+
+### 🍵 Beyond Tech  
+Outside coding, I’m a **tea lover 🍵**, a **stage actor 🎭**, and a firm believer in the **power of stories** — whether told through code or performance.  
+
+---
