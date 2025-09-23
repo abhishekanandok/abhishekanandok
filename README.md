@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekanandok&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abhishekanandok?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekanandok&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/abhishekanandok?label=Followers&style=for-the-badge" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/abhishekanandok?label=Stars&style=for-the-badge" alt="GitHub stars" />
 </p>
 
 ---
