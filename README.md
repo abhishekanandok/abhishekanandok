@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
 
 <h3 align="center">
-Founding Full Stack Engineer • AI Systems • Product Engineering
+Lead Software Engineer • AI Systems • Full Stack • Product Engineering
 </h3>
 
 <p align="center">
@@ -16,155 +16,85 @@ Building products from <strong>idea → production → scale</strong>.
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+<img align="right" width="350" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Full Stack Software Engineer** passionate about building scalable software products and AI-native applications.
-
-Over the past few years I've built production systems across **AI, SaaS, Healthcare, CRM Automation, Voice AI, and Cloud Infrastructure**, taking ownership from architecture to deployment.
-
-I enjoy solving hard engineering problems, building products from **0→1**, and shipping software that real users rely on every day.
+* 🚀 Lead Software Engineer building **AI-native products and scalable systems**
+* 🤖 Currently building an **AI Care Orchestrator at Swaasta**
+* 🧠 Previously built **Agentic AI & Graph-based Memory systems at LexiPitch**
+* ⚡ Experienced in **0→1 product development and production engineering**
+* ☁️ Comfortable owning **architecture → development → deployment → observability**
+* 🎯 Interested in **Agentic AI, AI Infrastructure, Graph RAG & Distributed Systems**
 
 ---
 
 ## 🚀 What I Build
 
-- 🤖 Agentic AI Platforms
-- 🧠 LLM Applications
-- 📚 RAG & Graph RAG Systems
-- 🔗 MCP Integrations
-- ⚡ Backend APIs & Distributed Systems
-- 🌐 Full Stack Web Applications
-- 📱 Mobile Applications
-- ☁️ Cloud Infrastructure & DevOps
-- 🚀 Production Software at Scale
+* 🤖 Agentic AI & LLM Applications
+* 🧠 RAG, Graph RAG & AI Memory Systems
+* 🏥 AI-powered Healthcare Systems
+* ⚡ Backend & Distributed Systems
+* 🔗 CRM & MCP Integrations
+* 🌐 Web & Mobile Applications
+* ☁️ Cloud Infrastructure & DevOps
 
 ---
 
-# 💼 Current Work
+## 💼 Current Work
 
-Currently building production AI systems at **LexiPitch**, where I own end-to-end engineering across:
+**Lead Software Engineer @ Swaasta**
 
-- AI Agents
-- Voice AI
-- Multi-channel Communication
-- CRM Integrations
-- Backend Architecture
-- Cloud Infrastructure
-- DevOps
-- Production Deployments
+Building an **AI Care Orchestrator** designed to coordinate healthcare journeys across:
+
+`Conversational Intake → Triage → Consultation → Diagnostics → Prescription → Pharmacy`
+
+Focused on AI orchestration, memory, backend architecture, healthcare workflows, and production infrastructure.
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-## AI
-
-- OpenAI
-- Gemini
-- LangChain
-- LangGraph
-- MCP
-- RAG
-- Graph RAG
-- Tool Calling
-- Structured Outputs
-- Prompt Engineering
-- AI Agents
+**AI:** OpenAI • Gemini • LangChain • LangGraph • MCP • RAG • Graph RAG • AI Agents • Tool Calling
+**Backend:** Python • TypeScript • Node.js • FastAPI • Express.js • REST • GraphQL • WebSockets • Redis • RabbitMQ
+**Frontend:** React • Next.js • React Native • Tailwind CSS • Redux
+**Data:** PostgreSQL • MongoDB • MySQL • Supabase • Neo4j • Pinecone • pgvector
+**Cloud & DevOps:** AWS • Docker • Terraform • GitHub Actions • Nginx • Grafana • Linux
 
 ---
 
-## Backend
+## 🎯 Currently Exploring
 
-- Node.js
-- FastAPI
-- Express.js
-- TypeScript
-- Python
-- REST APIs
-- GraphQL
-- WebSockets
-- Redis
-- RabbitMQ
+* Multi-Agent Systems
+* AI Infrastructure
+* AI Memory & Context
+* LLM Evaluation & Observability
+* Distributed Systems
+* Platform Engineering
 
 ---
 
-## Frontend
+## 🌍 Connect
 
-- React
-- Next.js
-- React Native
-- Tailwind CSS
-- Redux
-
----
-
-## Databases
-
-- PostgreSQL
-- MongoDB
-- MySQL
-- Supabase
-- Neo4j
-- Pinecone
-- pgvector
+🌐 **Portfolio:** https://abhishekanandok.com
+💼 **LinkedIn:** https://linkedin.com/in/abhishekanandok
+📄 **Resume:** https://www.abhishekanandok.com/files/AbhishekAnandSDEResume.pdf
+📧 **Email:** [support@abhishekanandok.com](mailto:support@abhishekanandok.com)
 
 ---
 
-## Cloud & DevOps
-
-- AWS
-- Docker
-- Terraform
-- GitHub Actions
-- Nginx
-- Grafana
-- Linux
-
----
-
-# 🎯 What I'm Currently Learning
-
-- Multi-Agent Systems
-- AI Infrastructure
-- Memory Systems
-- LLM Evaluation
-- AI Observability
-- Distributed Systems
-- Platform Engineering
-
----
-
-# 🌍 Connect
-
-📧 **Email**
-support@abhishekanandok.com
-
-🌐 **Portfolio**
-https://abhishekanandok.com
-
-📄 **Resume**
-https://www.abhishekanandok.com/files/AbhishekAnandSDEResume.pdf
-
-💼 **LinkedIn**
-https://linkedin.com/in/abhishekanandok
-
----
-
-# 🛠 Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,fastapi,nextjs,react,tailwind,redux,react,mongodb,postgres,mysql,docker,terraform,aws,linux,redis,rabbitmq,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,fastapi,nextjs,react,tailwind,redux,mongodb,postgres,mysql,docker,terraform,aws,linux,redis,rabbitmq,git,vscode"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekanandok&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekanandok&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -174,26 +104,5 @@ https://linkedin.com/in/abhishekanandok
 
 ---
 
-# 📈 Contributions
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekanandok&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekanandok&theme=tokyonight&no-frame=true"/>
-</p>
-
----
-
-# 💡 Engineering Philosophy
-
-> Great software isn't just about writing code.
-
-> It's about understanding problems, designing scalable systems, taking ownership, and continuously improving the product.
-
-I enjoy building software that scales—from **AI agents and backend systems to cloud infrastructure and user-facing applications.**
+> **Great software isn't just about writing code.**
+> It's about understanding problems, designing scalable systems, taking ownership, and shipping products people actually use.
