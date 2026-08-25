@@ -76,10 +76,10 @@ Focused on AI orchestration, memory, backend architecture, healthcare workflows,
 
 ## 🌍 Connect
 
-🌐 **Portfolio:** https://abhishekanandok.com
-💼 **LinkedIn:** https://linkedin.com/in/abhishekanandok
-📄 **Resume:** https://www.abhishekanandok.com/files/AbhishekAnandSDEResume.pdf
-📧 **Email:** [support@abhishekanandok.com](mailto:support@abhishekanandok.com)
+🌐 <strong>Portfolio:</strong> <a href="https://abhishekanandok.com">abhishekanandok.com</a><br>
+💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhishekanandok">linkedin.com/in/abhishekanandok</a><br>
+📄 <strong>Resume:</strong> <a href="https://www.abhishekanandok.com/files/AbhishekAnandSDEResume.pdf">View Resume</a><br>
+📧 <strong>Email:</strong> <a href="mailto:support@abhishekanandok.com">support@abhishekanandok.com</a>
 
 ---
 
