@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
 
 <h3 align="center">
-Lead Software Engineer • AI Systems • Full Stack • Product Engineering
+AI Software Engineer • Agentic AI • Production Systems
 </h3>
 
 <p align="center">
-Building products from <strong>idea → production → scale</strong>.
+Building AI systems and products from <strong>idea → architecture → production</strong>.
 </p>
 
 <p align="center">
@@ -20,74 +20,97 @@ Building products from <strong>idea → production → scale</strong>.
 
 ## 👨‍💻 About Me
 
-* 🚀 Lead Software Engineer building **AI-native products and scalable systems**
-* 🤖 Currently building an **AI Care Orchestrator at Swaasta**
-* 🧠 Previously built **Agentic AI & Graph-based Memory systems at LexiPitch**
-* ⚡ Experienced in **0→1 product development and production engineering**
-* ☁️ Comfortable owning **architecture → development → deployment → observability**
-* 🎯 Interested in **Agentic AI, AI Infrastructure, Graph RAG & Distributed Systems**
+- 🤖 **AI Software Engineer** building production-grade AI and agentic systems
+- 🏥 Currently building an **AI Care Orchestrator at Swaasta**
+- 🧠 Previously built **Agentic Voice AI & Graph-based Memory systems at LexiPitch**
+- ⚡ Experience taking products from **0 → 1 → production**
+- ☁️ Comfortable owning **architecture → development → deployment → observability**
+- 🚀 Interested in **Agentic AI, AI Infrastructure, AI Memory, Graph RAG & Distributed Systems**
 
 ---
 
 ## 🚀 What I Build
 
-* 🤖 Agentic AI & LLM Applications
-* 🧠 RAG, Graph RAG & AI Memory Systems
-* 🏥 AI-powered Healthcare Systems
-* ⚡ Backend & Distributed Systems
-* 🔗 CRM & MCP Integrations
-* 🌐 Web & Mobile Applications
-* ☁️ Cloud Infrastructure & DevOps
+- 🤖 Agentic AI & LLM Applications
+- 🧠 RAG, Graph RAG & AI Memory Systems
+- 🏥 AI-powered Healthcare Systems
+- ⚡ Backend & Distributed Systems
+- 🔗 CRM, MCP & Tool Integrations
+- ☁️ Cloud Infrastructure & Production Systems
+- 🌐 Web & Mobile Products
 
 ---
 
-## 💼 Current Work
+## 💼 What I'm Building
 
-**Lead Software Engineer @ Swaasta**
+### AI Care Orchestrator — Swaasta
 
-Building an **AI Care Orchestrator** designed to coordinate healthcare journeys across:
+Building an AI-driven healthcare journey across:
 
 `Conversational Intake → Triage → Consultation → Diagnostics → Prescription → Pharmacy`
 
-Focused on AI orchestration, memory, backend architecture, healthcare workflows, and production infrastructure.
+Focused on:
+
+- AI orchestration & agentic workflows
+- Persistent memory & context management
+- Healthcare workflow automation
+- Guardrails & human-in-the-loop systems
+- Production AI architecture
+
+---
+
+## 🧠 Previous Work
+
+### LexiPitch — Agentic Voice AI
+
+Built production Voice AI systems integrating:
+
+`Telephony → STT/TTS → LLM → Agents → Tools → CRM`
+
+Some of the engineering challenges I worked on:
+
+- ⚡ Processing ~**10K call minutes/day**
+- 🚀 Reducing conversational latency by **53%**
+- 🧠 Building multi-agent workflows with **LangGraph**
+- 🔗 Integrating HubSpot, Salesforce & Zoho
+- 🧩 Moving from traditional Vector RAG toward **Graph-based Memory & Context**
+- ☁️ Building AWS infrastructure with Terraform, Docker & GitHub Actions
 
 ---
 
 ## ⚡ Tech Stack
 
-**AI:** OpenAI • Gemini • LangChain • LangGraph • MCP • RAG • Graph RAG • AI Agents • Tool Calling
-**Backend:** Python • TypeScript • Node.js • FastAPI • Express.js • REST • GraphQL • WebSockets • Redis • RabbitMQ
-**Frontend:** React • Next.js • React Native • Tailwind CSS • Redux
-**Data:** PostgreSQL • MongoDB • MySQL • Supabase • Neo4j • Pinecone • pgvector
-**Cloud & DevOps:** AWS • Docker • Terraform • GitHub Actions • Nginx • Grafana • Linux
+**AI & LLMs**
+
+`Python` `LangGraph` `LangChain` `MCP` `RAG` `Graph RAG` `AI Agents` `Tool Calling` `Guardrails`
+
+**Backend & Distributed Systems**
+
+`FastAPI` `Node.js` `TypeScript` `Express.js` `REST APIs` `WebSockets` `Redis` `RabbitMQ`
+
+**Data & Knowledge Systems**
+
+`PostgreSQL` `MongoDB` `Neo4j` `Pinecone` `pgvector`
+
+**Cloud & Infrastructure**
+
+`AWS` `Docker` `Terraform` `GitHub Actions` `Nginx` `Grafana` `Linux`
+
+**Frontend**
+
+`React` `Next.js` `React Native` `Tailwind CSS`
 
 ---
 
 ## 🎯 Currently Exploring
 
-* Multi-Agent Systems
-* AI Infrastructure
-* AI Memory & Context
-* LLM Evaluation & Observability
-* Distributed Systems
-* Platform Engineering
-
----
-
-## 🌍 Connect
-
-🌐 <strong>Portfolio:</strong> <a href="https://abhishekanandok.com">abhishekanandok.com</a><br>
-💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhishekanandok">linkedin.com/in/abhishekanandok</a><br>
-📄 <strong>Resume:</strong> <a href="https://www.abhishekanandok.com/files/AbhishekAnandSDEResume.pdf">View Resume</a><br>
-📧 <strong>Email:</strong> <a href="mailto:support@abhishekanandok.com">support@abhishekanandok.com</a>
-
----
-
-## 🛠 Languages & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,fastapi,nextjs,react,tailwind,redux,mongodb,postgres,mysql,docker,terraform,aws,linux,redis,rabbitmq,git,vscode"/>
-</p>
+- Multi-Agent Systems
+- AI Memory & Context Engineering
+- LLM Evaluation & Observability
+- AI Infrastructure
+- Graph-based Knowledge Systems
+- Distributed Systems
+- Platform Engineering
 
 ---
 
@@ -104,5 +127,26 @@ Focused on AI orchestration, memory, backend architecture, healthcare workflows,
 
 ---
 
-> **Great software isn't just about writing code.**
-> It's about understanding problems, designing scalable systems, taking ownership, and shipping products people actually use.
+## 🌍 Connect
+
+<p>
+🌐 <strong>Portfolio:</strong>
+<a href="https://abhishekanandok.com">abhishekanandok.com</a>
+<br>
+💼 <strong>LinkedIn:</strong>
+<a href="https://linkedin.com/in/abhishekanandok">linkedin.com/in/abhishekanandok</a>
+<br>
+📄 <strong>Resume:</strong>
+<a href="https://www.abhishekanandok.com/files/AbhishekAnandSDEResume.pdf">View Resume</a>
+<br>
+📧 <strong>Email:</strong>
+<a href="mailto:support@abhishekanandok.com">support@abhishekanandok.com</a>
+</p>
+
+---
+
+<p align="center">
+<strong>Great software isn't just about writing code.</strong><br>
+It's about understanding problems, designing systems, taking ownership,<br>
+and shipping products people actually use.
+</p>
